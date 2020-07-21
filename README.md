@@ -12,7 +12,7 @@
 *I am proud of my ability to communicate with and to various audiences. Whether in written form or in presentations, I am a confident and persuasive communicator.* 
 
 - I have participated in MUN's at university.
-- I have served for the univrsity Students' Council.
+- I have served for the university Students' Council.
 
 #### Problem Solving
 
