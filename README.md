@@ -45,7 +45,6 @@
 
 | Institutions | Duration | Position| Work |
 | ---|---|---|---|
-| **Celebal Technologies** | July 2020 - Present | Intern | Managing Azure services. |
 | **LinuxWorld Informatics Pvt Ltd.** | May 2020 - Present | Trainee | Learnt about AWS and cloud services. |
 |
 
