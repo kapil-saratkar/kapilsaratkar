@@ -1,6 +1,6 @@
 ## *KAPIL SARATKAR*
 
-[SKILLS](https://kapil-saratkar.github.io/kapilsaratkar/#skills) | [PROJECTS](https://kapil-saratkar.github.io/kapilsaratkar/#projects) | [EDUCATION](https://kapil-saratkar.github.io/kapilsaratkar/#education) | [EXPERIENCE](https://kapil-saratkar.github.io/kapilsaratkar/#experience)
+[SKILLS](https://github.com/kapil-saratkar/kapilsaratkar/blob/master/README.md#skills) | [PROJECTS](https://github.com/kapil-saratkar/kapilsaratkar/blob/master/README.md#projects) | [EDUCATION](https://github.com/kapil-saratkar/kapilsaratkar/blob/master/README.md#education) | [EXPERIENCE](https://github.com/kapil-saratkar/kapilsaratkar/blob/master/README.md#experience)
 
 
 *Organized and motivated person able to apply time management and organizational skills in various environments. Seeking to obtain employment with a company that offers a positive atmosphere to learn and implement new skills and technologies for the betterment of the organization.  Proven ability to develop strong relationships across cultures and to provide decisive team leadership in a fast-paced environment. I am looking to work in a responsible and responsive organization with dynamic, exciting projects.* 
